@@ -1,7 +1,7 @@
 {
 	"META": {
-		"repoName": "Scarlet Repo",
-		"repoIcon": "https://usescarlet.com/favicon.png"
+		"repoName": "Megaman Repo",
+		"repoIcon": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cydia_logo.png"
 	},
 	"Games": [{
 		"name": "iPogo",
@@ -59,6 +59,7 @@
         "bundleIdentifier": "com.hammerandchisel.discord",
         "developerName": "Enmity Team",
         "subtitle": "The power of addons, all in your hand.",
+		"category": "Tweaked Apps",
         "version": "147.0",
         "versionDate": "2022-10-05",
         "versionDescription": "- Updated Discord to 174.0",
@@ -72,6 +73,7 @@
       {
         "name": "Enmity (Dev)",
         "bundleIdentifier": "com.hammerandchisel.discord",
+		"category": "Tweaked Apps",
         "developerName": "Enmity Team",
         "subtitle": "The power of addons, all in your hand.",
         "version": "147.0",
@@ -87,6 +89,7 @@
       {
         "name": "Enmity",
         "bundleIdentifier": "com.hammerandchisel.discord",
+		"category": "Tweaked Apps",
         "developerName": "Enmity Team",
         "subtitle": "The power of addons, all in your hand.",
         "version": "144.0",
@@ -102,6 +105,7 @@
       {
         "name": "Enmity (Dev)",
         "bundleIdentifier": "com.hammerandchisel.discord",
+		"category": "Tweaked Apps",
         "developerName": "Enmity Team",
         "subtitle": "The power of addons, all in your hand.",
         "version": "144.0",
@@ -117,6 +121,7 @@
       {
         "name": "Enmity",
         "bundleIdentifier": "com.hammerandchisel.discord",
+		"category": "Tweaked Apps",
         "developerName": "Enmity Team",
         "subtitle": "The power of addons, all in your hand.",
         "version": "141.0",
@@ -132,6 +137,7 @@
       {
         "name": "Enmity (Dev)",
         "bundleIdentifier": "com.hammerandchisel.discord",
+		"category": "Tweaked Apps",
         "developerName": "Enmity Team",
         "subtitle": "The power of addons, all in your hand.",
         "version": "141.0",
@@ -1761,6 +1767,7 @@
         "beta": false,
         "bundleIdentifier": "com.reddit.Reddit",
         "developerName": "level3tjg",
+		"category": "Tweaked Apps",
         "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2023.25.0-1.1.1/RedditFilter_2023.25.0_1.1.1.ipa",
         "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
         "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
@@ -1780,6 +1787,7 @@
         "beta": false,
         "bundleIdentifier": "com.burbn.instagram",
         "developerName": "Alfhaily & Qn_",
+		"category": "Tweaked Apps",
         "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EQv6sckLCvlGnfMH24EzBpsB0SIt-cMlQrxXYjO8U_H5IA?download=1",
         "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
         "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
@@ -1801,6 +1809,7 @@
         "beta": false,
         "bundleIdentifier": "com.facebook.Facebook",
         "developerName": "Michael Lema & Qn_",
+		"category": "Tweaked Apps",
         "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Efkyz3QAKyFNouUBvVdZbi0ByCqJToLW78ctOkSB5ayBUw?download=1",
         "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
         "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nLearn how to make your own IPA of Facebook Wolf here: https://github.com/qnblackcat/FBSideloadfix\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.",
@@ -1827,6 +1836,7 @@
         "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
         "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 14.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
         "name": "uYouPlus (uYou+)",
+		"category": "Tweaked Apps",
         "screenshotURLs": [
           "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
           "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
